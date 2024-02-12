@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="CTF_Platform.MvcApplication" Language="C#" %>
